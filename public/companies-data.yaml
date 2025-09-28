@@ -17,3 +17,6 @@ categories:
       - name: "Add yours"
         website_url: "https://github.com/unicorn-mafia/unicorn-mafia/blob/main/CONTRIBUTING.md"
         logo_url: "/companies/placeholder-logo.svg"
+      - name: "SpaceFlow"
+        website_url: "www.spaceflow.tech"
+        logo_url: "/companies/spaceflow.svg"
